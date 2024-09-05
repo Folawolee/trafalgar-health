@@ -1,0 +1,26 @@
+ .feedback{
+    margin-top: 108px;
+ }
+ .profile1{
+    /* display: flex; */
+    margin-top: 10px;
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+    border-radius: 24px;
+    /* justify-content: center;
+    align-items: center; */
+
+ }
+ .profile{
+    display: flex;
+    gap: 90px;
+ }
+ .letter{
+    font-size: 19px;
+    line-height: 30px;
+    font-weight: 400;
+    
+ }
+ .arrow{
+    color: #458FF6;
+    ;
+ }

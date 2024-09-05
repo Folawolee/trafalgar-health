@@ -1,0 +1,17 @@
+.learnmore-btn{
+    width: 115px;
+    height: 45px;
+    font-size: 18px;
+    
+    font-weight: 700;
+    border-radius: 35px;
+    border: 1.4px solid #458FF6;
+    font-size: 15px;
+    
+}
+button{
+    justify-content: center;
+    align-items: center;
+    color: #458FF6;
+    background-color: white;
+}
